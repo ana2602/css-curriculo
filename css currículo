@@ -1,0 +1,27 @@
+
+
+body{
+    background-color: rgba(0, 0, 0, 0.909); 
+    border-style:double;
+    border-color: deeppink;
+    border-width:medium;
+}
+
+h1{
+    color:rgb(96, 45, 226);
+    font-size:xx-large;
+    font-family:sans-serif;
+    text-align: center;
+} 
+
+h3{
+    color:rgb(255, 20, 145);
+    font-size:larger;
+    font-family: cursive;
+}
+
+p{
+    color: rgb(95, 155, 207);
+    font-size: larger;
+    font-family: monospace;
+}
